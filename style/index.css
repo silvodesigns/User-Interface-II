@@ -1,1 +1,19 @@
 /* Add CSS styling here */
+header {
+    background-color: beige;
+}
+
+ul.nav {
+    list-style-type: none;
+    display: flex;
+}
+
+ul.nav li{
+    width:100px;
+    height:40px;
+    background-color: cadetblue;
+    border:1px solid black;
+    text-align: center;
+    padding-top:12px;
+
+}
