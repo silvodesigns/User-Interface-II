@@ -17,3 +17,34 @@ ul.nav li{
     padding-top:12px;
 
 }
+
+#intro{
+    display:flex;
+    margin-bottom:100px;
+}
+#bio{
+    padding:100px;
+}
+
+p.description {
+    font-size:1.5em;
+}
+
+#projects{
+    display:flex;
+    justify-content: space-between;
+    flex-wrap:wrap
+}
+
+div.project{
+    display:flex;
+    flex-direction: column;
+    width:300px;
+    margin-bottom:50px;
+}
+
+footer{
+    background-color:beige;
+    height:400px;
+    text-align:center;
+}
